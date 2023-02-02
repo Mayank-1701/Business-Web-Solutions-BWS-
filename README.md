@@ -1,2 +1,2 @@
-# Business-Web-Solutions-BWS-
+# Business Web Solutions (BWS)
 Full Stack Web Development Internship
